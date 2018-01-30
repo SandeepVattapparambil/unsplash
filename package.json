@@ -1,0 +1,21 @@
+{
+  "name": "react-ssr-project",
+  "version": "1.0.0",
+  "description": "server side rendering project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandeepVattapparambil/unsplash.git"
+  },
+  "author": "Sandeep V",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/SandeepVattapparambil/unsplash/issues"
+  },
+  "homepage": "https://github.com/SandeepVattapparambil/unsplash#readme"
+}
